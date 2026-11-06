@@ -1,0 +1,12 @@
+{
+  "Name": "Submarine Income Tracker",
+  "Author": "deepseek & 23",
+  "Punchline": "潜水艇收益统计",
+  "Description": "检测聊天栏潜水艇带回的物品并记录。",
+  "InternalName": "SubmarineIncomeTracker",
+  "AssemblyVersion": "1.0.0.0",
+  "DalamudApiLevel": 15,
+  "Tags": ["Submarine"],
+  "CategoryTags": ["Other"],
+  "RepoUrl": ""
+}
