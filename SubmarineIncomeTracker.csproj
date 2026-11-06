@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
   <PropertyGroup>
     <TargetFramework>net10.0-windows</TargetFramework>
     <Platforms>x64</Platforms>
@@ -8,9 +8,5 @@
     <Company>deepseek &amp; 23</Company>
     <Authors>deepseek &amp; 23</Authors>
     <Description>潜水艇收益统计</Description>
-    <!-- 使用官方推荐的 SDK 进行自动化引用 -->
   </PropertyGroup>
-  <ItemGroup>
-    <PackageReference Include="DalamudPackager" Version="2.1.12" />
-  </ItemGroup>
 </Project>
